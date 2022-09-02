@@ -2,6 +2,9 @@
 
 Laboratorio de comparación hash con MD5deep
 
+- José David Rodríguez Leguizamón
+- Jeikson Sebastian Castiblanco Villamil  
+
 ## Descripción: 
 
 Es una herramienta que identifica y calcula el hash de un fichero, con la función md5, donde se puede evidenciar los cambios que se realizan a este mismo por medio de una comparación de los valores hash, obtenidos antes y después de la modificación. 
